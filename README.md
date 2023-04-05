@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Vishal Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://stock.adobe.com/in/search?k=programmer+cartoon&asset_id=135928597">
+<img align="right" alt="Coding" width="400" src="gitpic.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishaltelco&label=Profile%20views&color=0e75b6&style=flat" alt="vishaltelco" /> </p>
 
