@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Java Script**
 
-- 📫 How to reach me **vishalsingh82922@gmail.com**
+- 📫 How to reach me **vishalsingh3844@gmail.com**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1LD-RgAoQWuakYe0MZ76JWIYmBcib4F2s/edit?usp=share_link&ouid=118259816832003116738&rtpof=true&sd=true](https://docs.google.com/document/d/1LD-RgAoQWuakYe0MZ76JWIYmBcib4F2s/edit?usp=share_link&ouid=118259816832003116738&rtpof=true&sd=true)
 
